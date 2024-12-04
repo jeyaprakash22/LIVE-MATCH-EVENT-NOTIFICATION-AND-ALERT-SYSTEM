@@ -2,6 +2,9 @@
 ## 1. Overview
 The Cricket Match Notification System is designed to provide real-time updates and insights to enhance fan engagement during live matches. The system uses predictive models, real-time data analysis, and event-triggered notifications to keep fans informed about key moments, momentum shifts, and match milestones as they unfold. The core functionality of the system is driven by an algorithm that continuously monitors the match data and triggers notifications based on significant events.
 
+# DEMO
+![Media (2)](https://github.com/user-attachments/assets/56dd91d8-17ec-4597-a2aa-77c0166f045a)
+
 ## 2. Core Features
 ### 2.1 Score Potential Prediction
   * **Objective**: Predict the first innings score based on early match data.
